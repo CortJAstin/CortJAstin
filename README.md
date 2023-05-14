@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CortJAstin
-- 👀 I’m interested in ... Software devlopement/Software engineering.
+- 👀 I’m interested in ... Cyber Security.
 - 🌱 I’m currently learning ... HTML, CSS, Javascript, and Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... EMail: Cortastin@gmail.com
