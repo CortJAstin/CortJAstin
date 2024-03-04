@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @CortJAstin
-- 👀 I’m interested in ... Cyber Security.
-- 🌱 I’m currently learning ... HTML, CSS, Javascript, and Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... EMail: Cortastin@gmail.com
+- I’m Cort
+- I work in InfoSec
+- I've spent time building databases, I've studied Python, HTML, CSS, PowerShell, SQL, and a few other languages.
+
 
 <!---
 CortJAstin/CortJAstin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
