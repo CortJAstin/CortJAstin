@@ -1,6 +1,6 @@
 - I’m Cort
 - I work in InfoSec
-- I've spent time building databases, I've studied Python, HTML, CSS, PowerShell, SQL, and a few other languages.
+- I've spent time building databases, I've studied Python, PowerShell, SQL, and VBA
 
 
 <!---
